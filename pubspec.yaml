@@ -1,0 +1,29 @@
+name: todo_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  bloc: ^8.1.4
+  dio: ^5.6.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  intl: ^0.19.0
+  objectbox: ^4.0.2
+  objectbox_flutter_libs: ^4.0.2
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.11
+  objectbox_generator: ^4.0.2
+
+flutter:
+  uses-material-design: true
