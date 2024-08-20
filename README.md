@@ -25,12 +25,19 @@ This Flutter-based To-Do app demonstrates state management with BLoC and local s
    git clone https://github.com/devpravesh/your-repo-name.git
    cd your-repo-name
 
-### Steps to Update the Links:
+### Demo:
+<img src="https://github.com/user-attachments/assets/efd4f216-ff2a-493f-b3e6-0979b23da41a" width=200 height=400 >
 
 1. **Video Demonstration**:
-   - 
+    
 
-2. **APK File**:
-   - Download [TODO App](https://github.com/devpravesh/your-repo-name/todoapp.apk)
+   - [Demo](https://github.com/user-attachments/assets/fee9c0b8-64cd-4608-887c-9941efaa5ff0)
+
+
+
+
+
+3. **APK File**:
+   - Download [TODO App](https://github.com/devpravesh/Todo-App/raw/main/todoapp.apk)
 
 
